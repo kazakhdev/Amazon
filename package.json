@@ -20,7 +20,7 @@
   "scripts": {
     "development": "nodemon",
     "build": "webpack --config webpack.config.client.production.js && webpack --mode=production --config webpack.config.server.js",
-    "start": "nodemon"
+    "start": "nodemon webpack --config webpack.config.client.production.js && webpack --mode=production --config webpack.config.server.js"
   },
   "engines": {
     "node": "13.12.0",
