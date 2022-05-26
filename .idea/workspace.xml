@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3afc4a13-8e31-4e61-a211-4437e8afa0d6" name="Changes" comment="" />
+    <list default="true" id="3afc4a13-8e31-4e61-a211-4437e8afa0d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,15 +30,27 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="Node.js.server.generated.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Amazon/amazonproject/public/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/amazonproject/src/index.js" working-dir="$PROJECT_DIR$/amazonproject/src">
       <method v="2" />
     </configuration>
+    <configuration name="server.generated.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dist/server.generated.js" working-dir="$PROJECT_DIR$/dist">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/server.js" working-dir="$PROJECT_DIR$/server">
+      <method v="2" />
+    </configuration>
+    <configuration name="webpack.config.server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webpack.config.server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.server.generated.js" />
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.webpack.config.server.js" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.index.js" />
       </list>
@@ -51,6 +68,8 @@
       <workItem from="1649847825003" duration="184000" />
       <workItem from="1651662307217" duration="56000" />
       <workItem from="1652808503350" duration="41000" />
+      <workItem from="1652808675986" duration="394000" />
+      <workItem from="1653547530468" duration="69000" />
     </task>
     <servers />
   </component>
